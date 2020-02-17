@@ -5,4 +5,4 @@ I am just testing and learning(learning by doing) Git and GitHub.
 Refreshing knowledge. 
 Slettet linje 2
 Enda noen edringer
-bar en ny linje
+bare en ny linje
