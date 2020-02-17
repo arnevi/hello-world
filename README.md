@@ -1,6 +1,8 @@
 # hello-world
 Just another repository
-og en endring her og
-I am just testing and learning Git and GitHub.
+Setter inn en linje her
+I am just testing and learning(learning by doing) Git and GitHub.
 Refreshing knowledge. 
+Slettet linje 2
 Enda noen edringer
+bar en ny linje
